@@ -1,6 +1,7 @@
 ![Header](https://github.com/AlexKutovoi/AlexKutovoi/blob/main/assets/gg7504910407%20(1).gif)
 
-About me
+### About me
+I like coding and finding bugs. I work auto qa. 
 
 Languages and Tools
 
