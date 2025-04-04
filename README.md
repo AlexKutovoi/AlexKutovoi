@@ -17,3 +17,7 @@ I like coding and finding bugs. I work auto qa.
 [![Telegram](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=27A0D9)](https://www.linkedin.com/in/aleksei-kutovoi-2576031b3/)
 [![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=red)](https://alex161kut300@gmail.com)
 
+[![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?AlexKutovoi=vn7n24fzkq&theme=default)](https://github.com/AlexKutovoi/github-readme-stats)
+
+[![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexKutovoi&theme=default)](https://github.com/AlexKutovoi/github-readme-stats)
+
